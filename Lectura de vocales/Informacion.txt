@@ -1,0 +1,6 @@
+Unidad 5: Tipos de datos compuestos (estreucturas)
+Actividad Complemetaria 
+
+1- En Proyecto realizado en  Visual estudio 2019  se encuentra en la carpeta Proyecto 
+2.-El archivo ejecutable se encuentra en la carpeta Ejecutable
+3.- El instalador se encuentra en la carpeta instalador

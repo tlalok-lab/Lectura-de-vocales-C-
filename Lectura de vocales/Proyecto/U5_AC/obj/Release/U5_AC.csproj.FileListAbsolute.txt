@@ -1,0 +1,10 @@
+C:\Users\A\source\repos\U5_AC\U5_AC\bin\Release\U5_AC.exe.config
+C:\Users\A\source\repos\U5_AC\U5_AC\bin\Release\U5_AC.exe
+C:\Users\A\source\repos\U5_AC\U5_AC\bin\Release\U5_AC.pdb
+C:\Users\A\source\repos\U5_AC\U5_AC\obj\Release\U5_AC.csprojAssemblyReference.cache
+C:\Users\A\source\repos\U5_AC\U5_AC\obj\Release\U5_AC.Form1.resources
+C:\Users\A\source\repos\U5_AC\U5_AC\obj\Release\U5_AC.Properties.Resources.resources
+C:\Users\A\source\repos\U5_AC\U5_AC\obj\Release\U5_AC.csproj.GenerateResource.cache
+C:\Users\A\source\repos\U5_AC\U5_AC\obj\Release\U5_AC.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\U5_AC\U5_AC\obj\Release\U5_AC.exe
+C:\Users\A\source\repos\U5_AC\U5_AC\obj\Release\U5_AC.pdb
